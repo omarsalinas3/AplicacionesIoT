@@ -1,4 +1,4 @@
-# AplicacionesIoT
+![Imagen de WhatsApp 2025-02-07 a las 13 40 56_74b13325](https://github.com/user-attachments/assets/dce4e5f4-a1fb-4062-a31a-35e39fe015a6)# AplicacionesIoT
 Instrumento de evaluación IoT Unidad I
 ASIGNATURA: Aplicaciones de IoT
 UNIDAD: I. Adquisición y Procesamiento de Datos
@@ -8,10 +8,13 @@ Omar Salinas Salinas - Cristian Efraín Oropeza Yepiz
 ## NetAcad Python Fundamentals 2
 https://docs.google.com/document/d/11-DVC4tYivEpTA5J_lS4tIzOnxntJ4TgXRBCOUN4wxo/edit?usp=sharing
 
-## Ejercicios 1 y 2:
-<h1>PAREJA</h1>
+<h1>Ejercicios 1 y 2</h1>
+## Pareja:
 https://drive.google.com/drive/folders/1223LKWGqDJ9OyhAWGqKYZsncF8CWj-gw?usp=sharing
+![Imagen de WhatsApp 2025-02-07 a las 13 40 56_74b13325](https://github.com/user-attachments/assets/c0fec755-fd41-4a39-be22-d33a862857bc)
 
+
+<h1>Individual Oropeza Yepiz Cristian Efraí</h1>
 ## Ejercicios en clase:
 https://drive.google.com/drive/folders/1hO4HunTTb5FbGaWnhFmGyBxcE5Re7YTG?usp=sharing
 
@@ -23,3 +26,8 @@ https://drive.google.com/file/d/1oXaCggKlJYpnnpIOhyFDPpBuLe1dwH-I/view?usp=shari
 
 ## Evidencia Examen Teorico:
 https://drive.google.com/file/d/1hyb_g5FE9KjVmToH5uaSx0XWs4GUSFP5/view?usp=sharing
+
+
+<h1>Individual Oropeza Yepiz Cristian Efraí</h1>
+
+
