@@ -14,7 +14,7 @@ https://drive.google.com/drive/folders/1223LKWGqDJ9OyhAWGqKYZsncF8CWj-gw?usp=sha
 
 ![Imagen de WhatsApp 2025-02-07 a las 13 40 56_74b13325](https://github.com/user-attachments/assets/c0fec755-fd41-4a39-be22-d33a862857bc)
 
-<h1>Individual Oropeza Yepiz Cristian Efraí</h1>
+<h1>Individual Oropeza Yepiz Cristian Efraín</h1>
 ## Ejercicios en clase:
 https://drive.google.com/drive/folders/1hO4HunTTb5FbGaWnhFmGyBxcE5Re7YTG?usp=sharing
 
@@ -28,6 +28,6 @@ https://drive.google.com/file/d/1oXaCggKlJYpnnpIOhyFDPpBuLe1dwH-I/view?usp=shari
 https://drive.google.com/file/d/1hyb_g5FE9KjVmToH5uaSx0XWs4GUSFP5/view?usp=sharing
 
 
-<h1>Individual Oropeza Yepiz Cristian Efraí</h1>
+<h1>Individual Salinas Salinas Omar</h1>
 
 
