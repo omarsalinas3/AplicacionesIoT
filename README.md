@@ -1,4 +1,4 @@
-![Imagen de WhatsApp 2025-02-07 a las 13 40 56_74b13325](https://github.com/user-attachments/assets/dce4e5f4-a1fb-4062-a31a-35e39fe015a6)# AplicacionesIoT
+# AplicacionesIoT
 Instrumento de evaluación IoT Unidad I
 ASIGNATURA: Aplicaciones de IoT
 UNIDAD: I. Adquisición y Procesamiento de Datos
@@ -12,9 +12,7 @@ https://docs.google.com/document/d/11-DVC4tYivEpTA5J_lS4tIzOnxntJ4TgXRBCOUN4wxo/
 ## Pareja:
 https://drive.google.com/drive/folders/1223LKWGqDJ9OyhAWGqKYZsncF8CWj-gw?usp=sharing
 
-
 ![Imagen de WhatsApp 2025-02-07 a las 13 40 56_74b13325](https://github.com/user-attachments/assets/c0fec755-fd41-4a39-be22-d33a862857bc)
-
 
 <h1>Individual Oropeza Yepiz Cristian Efraí</h1>
 ## Ejercicios en clase:
