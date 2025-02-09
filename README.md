@@ -8,6 +8,8 @@ Omar Salinas Salinas - Cristian Efraín Oropeza Yepiz
 ## NetAcad Python Fundamentals 2
 https://docs.google.com/document/d/11-DVC4tYivEpTA5J_lS4tIzOnxntJ4TgXRBCOUN4wxo/edit?usp=sharing
 
+https://drive.google.com/drive/folders/1O_VhORLl-EkqEuYkoz_RiCApS8D4UADs?usp=sharing
+
 <h1>Ejercicios 1 y 2</h1>
 ## Pareja:
 https://drive.google.com/drive/folders/1223LKWGqDJ9OyhAWGqKYZsncF8CWj-gw?usp=sharing
@@ -29,5 +31,15 @@ https://drive.google.com/file/d/1hyb_g5FE9KjVmToH5uaSx0XWs4GUSFP5/view?usp=shari
 
 
 <h1>Individual Salinas Salinas Omar</h1>
+## Ejercicios en clase:
+https://drive.google.com/drive/folders/1hO4HunTTb5FbGaWnhFmGyBxcE5Re7YTG?usp=sharing
 
+## Ejercicio 3 (Circuito funcional en placa fenólica):
+https://drive.google.com/file/d/1m5hEbVho-fGkHtUQVjuK3DSYpDGxapao/view?usp=sharing
+
+## Ejercicio 4 (Figura 2D o 3D soldada):
+https://drive.google.com/file/d/1oXaCggKlJYpnnpIOhyFDPpBuLe1dwH-I/view?usp=sharing
+
+## Evidencia Examen Teorico:
+https://drive.google.com/file/d/1hyb_g5FE9KjVmToH5uaSx0XWs4GUSFP5/view?usp=sharing
 
