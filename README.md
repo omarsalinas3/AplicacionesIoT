@@ -6,8 +6,9 @@ UNIDAD: I. Adquisición y Procesamiento de Datos
 ## Creador
 Omar Salinas Salinas - Cristian Efraín Oropeza Yepiz
 ## NetAcad Python Fundamentals 2
+Cristian Efraín Oropeza Yepiz
 https://docs.google.com/document/d/11-DVC4tYivEpTA5J_lS4tIzOnxntJ4TgXRBCOUN4wxo/edit?usp=sharing
-
+Omar Salinas Salinas 
 https://drive.google.com/drive/folders/1O_VhORLl-EkqEuYkoz_RiCApS8D4UADs?usp=sharing
 
 <h1>Ejercicios 1 y 2</h1>
